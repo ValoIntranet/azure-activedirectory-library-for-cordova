@@ -105,6 +105,7 @@
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
                 <string>msauth</string>
+                <string>msauthv3</string>
             </array>
         </config-file>
 
